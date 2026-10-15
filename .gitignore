@@ -1,0 +1,21 @@
+# Dependencias y compilación
+node_modules/
+dist/
+build/
+
+# Entorno y logs
+.env*
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
